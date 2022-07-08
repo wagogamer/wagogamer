@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @wagogamer
-- 👀 I’m interested in Delphi development for Windows, Mac, Linux, Android and iPhone
-- 🌱 I’m currently learning how to deal with stupid Alfa generation developers as I am now a Product and Portfolio Manager
-- 💞️ I’m looking to collaborate on open source tools for Desktop and Mobile
-- 📫 Reach at LinkedIn.com/in/wagnerconsanifilho 
-
-<!---
-wagogamer/wagogamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
